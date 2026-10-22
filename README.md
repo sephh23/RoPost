@@ -9,10 +9,10 @@ RoPost is a live product, so the source code is closed and not available to shar
 ## By the numbers
 
 Straight from the admin panel:
-- **2,700+ users**, with **800+ bots** posting at the same time
-- **6.8 million+** trade ads posted
-- In **750+** Discord servers
-- The trade tracker has logged **2.3 million** ownership changes and rebuilt **~400,000 trades**
+- **3,600+ users**, with **1,200+ bots** posting at the same time
+- **8.3 million+** trade ads posted
+- In **1,000+** Discord servers
+- The trade tracker has logged **2.7 million+** ownership changes and rebuilt **~470,000 trades**
 
 <img src="screenshots/admin_panel.png" width="400" alt="Admin panel stats">
 
